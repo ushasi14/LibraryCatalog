@@ -35,4 +35,13 @@ This is a simple Java console-based application to manage a small library catalo
 
    ```bash
    javac LibraryCatalog.java
+Run the program:
+```bash
+java LibraryCatalog
+
+ISBN (International Standard Book Number)
+ISBN is a unique identifier for each book edition, used by libraries, bookstores, and online platforms for cataloging and tracking.
+
+Example: 978-0-06-112241-5
+
 
